@@ -1,0 +1,67 @@
+
+    <div className="card">
+    <img src="/img/heart unliked.svg" alt="Unliked" />
+      <img width={133} height={112} src="/img/green sneakers1.svg"  />
+      <h5>Мужские Кроссовки Nike Blazer Mid S</h5>
+      <div className="d-flex justify-between align-center">
+      <div className=" flex-column">
+          <span className="d-flex">Цена:</span> 
+          <b>12 999 руб. </b>
+        </div>
+      <button className="button">
+        <div className="d-flex"></div>
+        <img width={11} height={11} src="/img/12 999 руб..svg" alt="Plus"></img>
+         </button>
+      </div>
+    </div>
+
+
+
+    <div className="cartItem d-flex">
+        <img className="mr-20" 
+        width={70} 
+        height={70} 
+        src="/img/green sneakers2.svg" alt="Sneakers" />
+        <p className="mb-5">Кроссовки мужские крутые</p>
+        <b>19000 руб</b>
+
+
+
+
+
+
+    <div className="card">
+    <img src="/img/heart unliked.svg" alt="Unliked" />
+      <img width={133} height={112} src="/img/green sneakers2.svg" alt="Plus" />
+      <h5>Мужские Кроссовки Nike Blazer Mid S</h5>
+      <div className="d-flex justify-between align-center">
+        <div className="">
+          <span className="d-flex">Цена:</span> 
+          <b>12 999 руб. </b>
+        </div>
+      <button className="button">
+        <img width={11} height={11} src="/img/12 999 руб..svg" alt="Plus"></img>
+         </button>
+      </div>
+    </div>
+
+
+
+
+
+    <div className="card">
+    <img src="/img/heart unliked.svg" alt="Unliked" />
+      <img width={133} height={112} src="/img/green sneakers3.svg" alt="Plus" />
+      <h5>Мужские Кроссовки Nike Blazer Mid S</h5>
+      <div className="d-flex justify-between align-center">
+        <div className=" flex-column">
+          <span className="d-flex">Цена:</span> 
+          <b>12 999 руб. </b>
+        </div>
+      <button className="button">
+        <img width={11} height={11} src="/img/12 999 руб..svg" alt="Plus"></img>
+         </button>
+      </div>
+    </div>  
+      </div>
+
